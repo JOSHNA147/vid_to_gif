@@ -39,4 +39,9 @@ project-root/
 ```bash
 git clone https://github.com/yourusername/video-to-gif-with-subtitles.git
 cd video-to-gif-with-subtitles
+2. **Create and activate a virtual environment:
+python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+3. **Install the required packages:
+pip install -r requirements.txt
 
