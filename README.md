@@ -19,3 +19,24 @@ This project is a Flask web application that allows users to upload a video file
 
 ## Directory Structure
 
+project-root/
+│
+├── app.py
+├── templates/
+│ ├── upload.html
+│ └── results.html
+├── uploads/
+├── transcripts/
+├── segments/
+└── static/
+└── outputs/
+
+
+## Installation
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/yourusername/video-to-gif-with-subtitles.git
+cd video-to-gif-with-subtitles
+
