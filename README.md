@@ -1,7 +1,8 @@
 # Video to GIF with Subtitles
 
 This project is a  application that allows users to upload a video file, transcribe it, segment the video and subtitles, generate GIFs with synchronized subtitles, and display the results.
-![Uploading example.gif…]()
+
+![example](https://github.com/JOSHNA147/vid_to_gif/assets/56726857/f7a93287-c465-4ad7-aad7-4913692b4e1f)
 
 
 
