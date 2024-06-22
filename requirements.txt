@@ -1,0 +1,9 @@
+Flask
+pymongo
+moviepy
+flask-cors
+celery
+redis
+whisper-timestamped
+flask-cors
+matplotlib
